@@ -1,7 +1,5 @@
-### Hi there 👋
-I'm a 19 year old student from India currently on a gap year hoping to study Computer Science at university later this year!
-
-I like to sleep.
+### Hey there 👋
+I'm a 19 year old first year Comp Sci student at the Uni of Southampton! I'm interested in the theoretical aspects of AI/ML as well as their applications. 
 
 <!--
 **Saflaski/Saflaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
