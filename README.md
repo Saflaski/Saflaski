@@ -1,5 +1,5 @@
 ### Hey there 👋
-I'm a 19 year old first year Comp Sci student at the Uni of Southampton! I'm interested in the theoretical aspects of AI/ML as well as their applications. 
+I'm a 20 year old first year Comp Sci student at the Uni of Southampton! I'm interested in the theoretical aspects of AI/ML as well as their applications. 
 
 <!--
 **Saflaski/Saflaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
